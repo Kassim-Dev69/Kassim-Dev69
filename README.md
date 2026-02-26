@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Etudiant+en+Génie+Informatique+💻;Futur+Game+Developer+🎮;Bâtisseur+de+choses+durables+🔧;En+construction+permanente...+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Etudiant+en+Génie+Informatique+💻;Futur+Game+Developer+🎮;Bâtisseur+en+devenir...+🔧;En+construction+permanente...+🚀)
 
 <br/>
 
@@ -29,31 +29,24 @@
 
 > *"Un jeune homme qui a quitté le droit pour écrire du code.*
 
-<br\>
 
 > *Parti de zéro, animé par la passion et une faim de bâtir des choses durables."*
 
-<br/>
 
 🎓 Étudiant en **Génie Informatique** — [Giovani & Mami University](https://gm-univ.com/) 
 
-<br\>
 
 🌍 Basé au **Congo-Brazzaville**
 
-<br\>
 
 🤝 Fondateur du projet **SAFE** — initiative à impact collectif 
 
-<br\>
 
 📓 Je documente mon évolution dans mon **[Life Journal](https://github.com/Kassim-Dev69/my-life-journal)**
 
-<br\>
 
 💬 Toujours partant pour apprendre et collaborer 
 
-<br\>
 
 ⚡ Fun fact : *J'ai commencé par le droit avant d'épouser le code*
 
