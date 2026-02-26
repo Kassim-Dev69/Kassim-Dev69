@@ -24,24 +24,40 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
-<div>
+
   
 
-> *"Un jeune homme qui a quitté le droit pour écrire du code.* <br\>
+> *"Un jeune homme qui a quitté le droit pour écrire du code.*
+
+<br\>
+
 > *Parti de zéro, animé par la passion et une faim de bâtir des choses durables."*
 
 <br/>
 
-🎓 Étudiant en **Génie Informatique** — [Giovani & Mami University](https://gm-univ.com/) <br\>
-🌍 Basé au **Congo-Brazzaville** <br\>
-🤝 Fondateur du projet **SAFE** — initiative à impact collectif <br\>
-📓 Je documente mon évolution dans mon **[Life Journal](https://github.com/Kassim-Dev69/my-life-journal)** <br\>
-💬 Toujours partant pour apprendre et collaborer <br\>
+🎓 Étudiant en **Génie Informatique** — [Giovani & Mami University](https://gm-univ.com/) 
+
+<br\>
+
+🌍 Basé au **Congo-Brazzaville**
+
+<br\>
+
+🤝 Fondateur du projet **SAFE** — initiative à impact collectif 
+
+<br\>
+
+📓 Je documente mon évolution dans mon **[Life Journal](https://github.com/Kassim-Dev69/my-life-journal)**
+
+<br\>
+
+💬 Toujours partant pour apprendre et collaborer 
+
+<br\>
+
 ⚡ Fun fact : *J'ai commencé par le droit avant d'épouser le code*
 
 <br/>
-
-</div>
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
