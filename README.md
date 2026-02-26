@@ -22,9 +22,10 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Qui suis-je ?
 
+
+<div align="center">
+  
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-
-
   
 
 > *"Un jeune homme qui a quitté le droit pour écrire du code.*
@@ -49,7 +50,7 @@
 
 ⚡ Fun fact : *J'ai commencé par le droit avant d'épouser le code*
 
-<br/>
+</div>
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
