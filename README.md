@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kassim&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Etudiant%20en%20Génie%20Informatique%20•%20Futur%20Game%20Dev%20•%20Bâtisseur&descAlignY=60&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kassim&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Etudiant%20en%20Génie%20Informatique%20•%20Futur%20Game%20Dev%20•%20Bâtisseur&encAlignY=60&descSize=16)
 
 </div>
 
@@ -82,8 +82,10 @@
 
 </div>
 
+<div align="center">
+  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
-
+</div>
 
 
