@@ -1,4 +1,9 @@
+<div align="center">
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kassim&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Etudiant%20en%20Génie%20Informatique%20•%20Futur%20Game%20Dev%20•%20Bâtisseur&descAlignY=60&descSize=16)
+
+</div>
+
 
 <div align="center">
 
@@ -42,6 +47,8 @@
 
 ---
 
+<div align="center">
+  
 ## 🚀 Mes projets
 
 | Projet | Description | Statut |
@@ -49,6 +56,8 @@
 | 🤝 SAFE | Initiative à impact collectif | 🔄 En cours |
 | 🌐 Portfolio | 24 projets web en 6 mois | 🔄 En cours |
 | 🎮 VESTIGES | Jeu vidéo AAA — mon grand rêve | 🔄 En phase d'idéation |
+
+</div>
 
 ---
 
