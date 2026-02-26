@@ -1,4 +1,8 @@
+<div align="center">
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kassim&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Etudiant%20en%20Génie%20Informatique%20•%20Futur%20Game%20Dev%20•%20Bâtisseur&descAlignY=60&descSize=18)
+
+</div>
 
 <div align="center">
 
@@ -20,17 +24,17 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
-> *"Un jeune homme qui a quitté le droit pour écrire du code.*
+> *"Un jeune homme qui a quitté le droit pour écrire du code.* <br\>
 > *Parti de zéro, animé par la passion et une faim de bâtir des choses durables."*
 
 <br/>
 
-🎓 Étudiant en **Génie Informatique** — Giovani & Mami University
-🌍 Basé au **Congo-Brazzaville**
-🤝 Fondateur du projet **SAFE** — initiative à impact collectif
-📓 Je documente mon évolution dans mon **[Life Journal](https://github.com/Kassim-Dev69/my-life-journal)**
-💬 Toujours partant pour apprendre et collaborer
-⚡ Fun fact : *J'ai commencé par le droit avant de tomber amoureux du code*
+🎓 Étudiant en **Génie Informatique** — [Giovani & Mami University](https://gm-univ.com/) <br\>
+🌍 Basé au **Congo-Brazzaville** <br\>
+🤝 Fondateur du projet **SAFE** — initiative à impact collectif <br\>
+📓 Je documente mon évolution dans mon **[Life Journal](https://github.com/Kassim-Dev69/my-life-journal)** <br\>
+💬 Toujours partant pour apprendre et collaborer <br\>
+⚡ Fun fact : *J'ai commencé par le droit avant d'épouser le code*
 
 <br/>
 
