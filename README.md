@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Etudiant+en+Génie+Informatique+💻;Futur+Game+Developer+🎮;Bâtisseur+en+devenir+🔧;En+construction+permanente...+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Etudiant+en+Génie+Informatique+💻;Futur+Game+Developer+🎮;Bâtisseur+en+devenir...+🔧;En+construction+permanente...+🚀)
 
 ![Visites](https://komarev.com/ghpvc/?username=Kassim-Dev69&color=6C63FF&style=for-the-badge&label=VISITEURS)
 
@@ -17,8 +17,8 @@
 
 ## 🧠 Qui suis-je ?
 
-> Un jeune homme qui a quitté le droit pour écrire du code.
-> Parti de zéro, animé par la passion et une faim de bâtir des choses durables.
+Un jeune homme qui a quitté le droit pour écrire du code.
+Parti de zéro, animé par la passion et une faim de bâtir des choses durables.
 
 - 🎓 Étudiant en **Génie Informatique** — Giovani & Mami University
 - 🌍 Basé au **Congo-Brazzaville**
