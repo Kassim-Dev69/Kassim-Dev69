@@ -29,7 +29,6 @@
 
 > *"Un jeune homme qui a quitté le droit pour écrire du code.*
 
-
 > *Parti de zéro, animé par la passion et une faim de bâtir des choses durables."*
 
 
@@ -93,6 +92,7 @@
 |:---:|:---:|:---:|
 | 🤝 **SAFE** | Initiative à impact collectif | ![Status](https://img.shields.io/badge/En%20cours-6C63FF?style=flat-square) |
 | 🌐 **Portfolio** | 24 projets web en 6 mois | ![Status](https://img.shields.io/badge/En%20cours-6C63FF?style=flat-square) |
+| 🎮 VESTIGES | Jeu vidéo AAA — mon grand rêve | 🔄 En conception ![En idéation](https://img.shields.io/badge/En%20idéation-6C63FF?style=flat-square) |
 
 </div>
 
@@ -144,6 +144,7 @@
 </div>
 
 <div align="center">
+  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
