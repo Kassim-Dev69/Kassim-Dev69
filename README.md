@@ -92,7 +92,7 @@
 |:---:|:---:|:---:|
 | 🤝 **SAFE** | Initiative à impact collectif | ![Status](https://img.shields.io/badge/En%20cours-6C63FF?style=flat-square) |
 | 🌐 **Portfolio** | 24 projets web en 6 mois | ![Status](https://img.shields.io/badge/En%20cours-6C63FF?style=flat-square) |
-| 🎮 VESTIGES | Jeu vidéo AAA — mon grand rêve | 🔄 En conception ![En idéation](https://img.shields.io/badge/En%20idéation-6C63FF?style=flat-square) |
+| 🎮 VESTIGES | Jeu vidéo AAA — mon grand rêve | ![En idéation](https://img.shields.io/badge/En%20idéation-6C63FF?style=flat-square) |
 
 </div>
 
