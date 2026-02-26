@@ -1,13 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kassim&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Etudiant%20en%20Génie%20Informatique%20•%20Futur%20Game%20Dev%20•%20Bâtisseur&encAlignY=60&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kassim&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Etudiant%20en%20Génie%20Informatique%20•%20Futur%20Game%20Dev%20•%20Bâtisseur&descAlignY=60&descSize=16)
 
 </div>
 
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Etudiant+en+Génie+Informatique+💻;Futur+Game+Developer+🎮;Bâtisseur+de+choses+durables+🔧;En+construction+permanente...+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Etudiant+en+Génie+Informatique+💻;Futur+Game+Developer+🎮;Bâtisseur+en+devenir+🔧;En+construction+permanente...+🚀)
 
 ![Visites](https://komarev.com/ghpvc/?username=Kassim-Dev69&color=6C63FF&style=for-the-badge&label=VISITEURS)
 
