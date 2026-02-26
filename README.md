@@ -24,6 +24,9 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
+<div>
+  
+
 > *"Un jeune homme qui a quitté le droit pour écrire du code.* <br\>
 > *Parti de zéro, animé par la passion et une faim de bâtir des choses durables."*
 
@@ -38,6 +41,7 @@
 
 <br/>
 
+</div>
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
