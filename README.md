@@ -50,12 +50,13 @@
 
 ⚡ Fun fact : *J'ai commencé par le droit avant d'épouser le code*
 
-</div>
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Stack & Outils
+
+</div>
 
 <div align="center">
 
