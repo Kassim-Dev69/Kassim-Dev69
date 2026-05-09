@@ -71,6 +71,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### 🔗 Liens utiles
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=googlechrome&logoColor=white)](ton-site.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](ton-lien-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tchitembogenesis@gmail.com)
+
 ### ◈ À venir
 
 Choix en cours...
