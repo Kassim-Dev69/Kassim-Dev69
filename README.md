@@ -36,7 +36,7 @@
 🌍 Basé au **Congo-Brazzaville**
 
 
-🤝 Fondateur du projet **SAFE** — initiative à impact collectif 
+🤝 Fondateur du projet **SAFE** — initiative à impact collectif et social
 
 
 📓 Je documente mon évolution dans mon **[Life Journal](https://github.com/Kassim-Dev69/my-life-journal)**
@@ -68,6 +68,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Power Bi](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)
 
 ### ◈ À venir
 
@@ -88,7 +89,7 @@
 | 🏷️ Projet | 📝 Description | 📌 Statut |
 |:---:|:---:|:---:|
 | 🤝 **SAFE** | Initiative à impact collectif | ![Status](https://img.shields.io/badge/En%20cours-6C63FF?style=flat-square) |
-| 🌐 **Portfolio** | 24 projets web en 6 mois | ![Status](https://img.shields.io/badge/En%20idéation-6C63FF?style=flat-square) |
+| 🌐 **Portfolio** | Projets personnels | ![Status](https://img.shields.io/badge/En%20idéation-6C63FF?style=flat-square) |
 | 🎮 VESTIGES | Jeu vidéo AAA — mon grand rêve | ![En idéation](https://img.shields.io/badge/En%20idéation-6C63FF?style=flat-square) |
 
 </div>
