@@ -108,7 +108,6 @@ Choix en cours...
 <div align="center">
 
 ![Trophées](https://github-profile-trophy.vercel.app/?username=Kassim-Dev69&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
-![Kassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kassim-Dev69&show_icons=true&theme=radical&hide_border=true)
 
 <br/>
 
