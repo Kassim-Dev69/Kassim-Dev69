@@ -124,6 +124,16 @@ Choix en cours...
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
+## Me retrouver
+
+<div align="center">
+  
+[📓 Mon journal de dev](https://github.com/Kassim-Dev69/my-life-journal)
+
+</div>
+
+---
+
 ## 📓 Dernière entrée du journal
 
 <div align="center">
