@@ -130,6 +130,13 @@ Choix en cours...
   
 [📓 Mon journal de dev](https://github.com/Kassim-Dev69/my-life-journal)
 
+<br/>
+
+---
+*🌟 Si ce parcours te parle, n'hésite pas à star le dépôt — ça motive à continuer !*
+
+<br/>
+
 </div>
 
 ---
