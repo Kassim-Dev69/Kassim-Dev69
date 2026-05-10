@@ -111,11 +111,6 @@ Choix en cours...
 
 <br/>
 
-![Kassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kassim-Dev69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kassim-Dev69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-<br/>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kassim-Dev69&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
