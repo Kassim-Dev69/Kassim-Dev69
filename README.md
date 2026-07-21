@@ -32,6 +32,7 @@
 
 🎓 Étudiant en **Génie Informatique** — [Giovani & Mami University](https://gm-univ.com/) 
 
+🏢 Stagiaire IT chez GeoWorks Group - [GeoWorks Group](https://geoworks-group.com)
 
 🌍 Basé au **Congo-Brazzaville**
 
